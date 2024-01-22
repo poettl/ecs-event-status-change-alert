@@ -64,6 +64,10 @@ You need to create all the resources in the same region. If you have multiple re
 
 Now you should be able to see the Slack notification when ECS service status changes.
 
+Image of the notifications:
+
+![Slack notification](slack-notification.png)
+
 ## License
 
 MIT License. See LICENSE file.
